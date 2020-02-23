@@ -1,0 +1,11 @@
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/repositories/MessageRepository.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/services/EchoTimeValidatorService.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/redis/AppConfig.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/services/EchoTimeValidatorServiceImpl.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/services/EchoAtTimeService.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/Application.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/dto/EchoAtTimeResponse.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/defintion/TimeValidationEnum.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/dto/ValidatorResponse.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/services/EchoAtTimeServiceImpl.java
+/Users/yaniv.n/src/reporting-with-redis/reporting_with_redis/src/main/java/application/controller/EchoAtTimeController.java

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: application.services.EchoTimeValidatorServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.806 sec - in application.services.EchoTimeValidatorServiceImplTest
